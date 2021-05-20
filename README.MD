@@ -1,0 +1,1 @@
+Este repositorio contiene todos los reconocimientos y certificados obtenidos durante mi carrera profesional.
