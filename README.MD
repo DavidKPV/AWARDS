@@ -6,7 +6,7 @@ Este repositorio contiene todos los reconocimientos y certificados obtenidos dur
 
 ## **Certificados electrónicos:**
 
-🏆 [Developing Android Applications with Kotlin: Getting Started](https://app.pluralsight.com/achievements/share/11ac7f9d-8616-4d63-9a34-a0342b2c6382)
+🏆 [Developing Android Applications with Kotlin: Getting Started](https://app.pluralsight.com/achievements/share/11ac7f9d-8616-4d63-9a34-a0342b2c6382)<br>
 🏆 [Developing Android Applications with Kotlin: The Big Picture](https://app.pluralsight.com/achievements/share/a0cdb21e-372a-42b7-86d4-9e364edc13af)
 🏆 [Testing and Debugging with Android Studio and Gradle](https://app.pluralsight.com/achievements/share/7bd3fa11-1bd0-4d10-9b6e-55208c26051d)
 🏆 [Customizing Styles and Themes with Resources](https://app.pluralsight.com/achievements/share/76230591-75f4-4ce2-b1f3-8167d9a4208c)
