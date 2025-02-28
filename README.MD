@@ -29,3 +29,19 @@ Este repositorio contiene todos los reconocimientos y certificados obtenidos dur
 🏆 [GitHub Foundations: Adopting an InnerSource Culture with GitHub](https://app.pluralsight.com/achievements/share/e7faacab-2262-4179-aa45-79f475384d74)<br>
 🏆 [Contributing to an Open Source Project on GitHub](https://app.pluralsight.com/achievements/share/7c36f35a-bc7d-4760-b935-7a3c39bec798)<br>
 🏆 [Adapting CLEAN Architecture in Android Apps](https://app.pluralsight.com/achievements/share/fb51eec7-fe69-4ff1-8c1b-d612f8497329)<br>
+🏆 [Gradle Fundamentals](https://app.pluralsight.com/achievements/share/1852d327-4821-411f-9655-b3e36b615b27)<br>
+🏆 [Getting Started with Jenkins](https://app.pluralsight.com/achievements/share/635494f5-838c-4aa2-ad0e-487695e9fa21)<br>
+🏆 [Getting Started in the Lab Environment](https://app.pluralsight.com/achievements/share/a94c0152-763d-4601-a58c-b461eb51ae67)<br>
+🏆 [Install and Configure Jenkins - Part 1](https://app.pluralsight.com/achievements/share/c53d868d-486f-4894-b7e5-ae32180adbc4)<br>
+🏆 [Using and Managing Jenkins Plugins](https://app.pluralsight.com/achievements/share/42761277-f4e0-4eb5-9ad4-f7ae1e3f961b)<br>
+🏆 [Using Declarative Jenkins Pipelines](https://app.pluralsight.com/achievements/share/ee4bd44f-236b-4c18-a4cc-caca37251de8)<br>
+🏆 [Building and Using a Multi-node Jenkins Farm](https://app.pluralsight.com/achievements/share/16f4d863-bf2a-4fa7-9836-5f8f50e693ea)<br>
+🏆 [Running Jenkins in Docker](https://app.pluralsight.com/achievements/share/d48b3406-87ad-4ec2-8ba3-aa322a2ec1d3)<br>
+🏆 [Creational Design Patterns in Kotlin](https://app.pluralsight.com/achievements/share/a7b14b88-7848-4e7c-9447-0e3c7bc5775e)<br>
+🏆 [Running Jenkins in Kubernetes](https://app.pluralsight.com/achievements/share/e4fc32ba-15b9-4571-b7f0-e1a0de31cdff)<br>
+🏆 [Kotlin: The Big Picture](https://app.pluralsight.com/achievements/share/e24ddd91-0825-473a-ad1f-936a3c95a66f)<br>
+🏆 [Android FirebaseUI Authentication with Kotlin](https://app.pluralsight.com/achievements/share/3243c08a-9404-459c-9a9b-de8fa9486f91)<br>
+🏆 [Flutter 2: The Big Picture](https://app.pluralsight.com/achievements/share/d155b63d-bd8a-4a96-9005-55c7d18fe363)<br>
+🏆 [Flutter 2: Getting Started](https://app.pluralsight.com/achievements/share/a3735b59-6ac0-4faf-974e-32a4a62d5210)<br>
+🏆 [Creating Layouts with Flutter 2](https://app.pluralsight.com/achievements/share/cb4462ce-1af8-485f-9f6a-531c3929b0bb)<br>
+🏆 [Creating a Connected App with Flutter 1](https://app.pluralsight.com/achievements/share/e87c3432-1a15-401b-97b5-b9a82b28fc09)<br>
