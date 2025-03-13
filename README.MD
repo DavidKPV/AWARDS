@@ -45,3 +45,4 @@ Este repositorio contiene todos los reconocimientos y certificados obtenidos dur
 🏆 [Flutter 2: Getting Started](https://app.pluralsight.com/achievements/share/a3735b59-6ac0-4faf-974e-32a4a62d5210)<br>
 🏆 [Creating Layouts with Flutter 2](https://app.pluralsight.com/achievements/share/cb4462ce-1af8-485f-9f6a-531c3929b0bb)<br>
 🏆 [Creating a Connected App with Flutter 1](https://app.pluralsight.com/achievements/share/e87c3432-1a15-401b-97b5-b9a82b28fc09)<br>
+🏆 [Managing State in Flutter 1](https://app.pluralsight.com/achievements/share/01049d37-0fcb-4499-a141-a45c5e3292c4)<br>
