@@ -53,3 +53,4 @@ Este repositorio contiene todos los reconocimientos y certificados obtenidos dur
 🏆 [Developing Mobile-specific Features with Flutter](https://app.pluralsight.com/achievements/share/cec61184-2a61-4606-9574-4563821745f7)<br>
 🏆 [Debugging, Testing, and Publishing a Flutter 2 App](https://app.pluralsight.com/achievements/share/f44dc3e8-68f8-4779-be31-923710e07bf7)<br>
 🏆 [Developing Packages in Flutter](https://app.pluralsight.com/achievements/share/a360ed69-ba98-472e-bb81-f17d5a37cdf9)<br>
+🏆 [Leadership and Communication Skills for Software Engineers](https://app.pluralsight.com/achievements/share/749ecd7a-3a21-438b-8f37-df492cda0b35)<br>
