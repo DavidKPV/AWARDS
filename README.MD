@@ -54,3 +54,8 @@ Este repositorio contiene todos los reconocimientos y certificados obtenidos dur
 🏆 [Debugging, Testing, and Publishing a Flutter 2 App](https://app.pluralsight.com/achievements/share/f44dc3e8-68f8-4779-be31-923710e07bf7)<br>
 🏆 [Developing Packages in Flutter](https://app.pluralsight.com/achievements/share/a360ed69-ba98-472e-bb81-f17d5a37cdf9)<br>
 🏆 [Leadership and Communication Skills for Software Engineers](https://app.pluralsight.com/achievements/share/749ecd7a-3a21-438b-8f37-df492cda0b35)<br>
+🏆 [Using and Managing Jenkins](https://app.pluralsight.com/achievements/share/190fdab9-e8e6-4a4e-a278-ca656fef507c)<br>
+🏆 [Use Declarative Jenkins Pipelines](https://app.pluralsight.com/achievements/share/cc44df86-1cec-49d9-b5b3-459ad2c66006)<br>
+🏆 [Building a Modern CI/CD Pipeline with Jenkins](https://app.pluralsight.com/achievements/share/e0b3a49b-d422-4071-a36e-d124922476d0)<br>
+🏆 [Automating Jenkins with Groovy](https://app.pluralsight.com/achievements/share/24db7a1f-c34f-49df-a8c0-e4bb5c9c3128)<br>
+🏆 [Top Skills Every Tech Professional Needs](https://app.pluralsight.com/achievements/share/fddcb6b1-7116-4543-8970-9af5e5b206f1)<br>
